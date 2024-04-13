@@ -1,0 +1,73 @@
+{
+    "timestamp": 1712877609.4493313,
+    "devices": [
+        {
+            "id": "bf1b6602d2742bf93d8izy",
+            "ip": "192.168.0.35",
+            "active": 2,
+            "encrypt": true,
+            "productKey": "keyqwtgrcsf3hxng",
+            "name": "KRK L",
+            "key": "V)>ArRhvT$1:etdC",
+            "mac": "84:e3:42:5b:59:12",
+            "ability": 0,
+            "token": "",
+            "wf_cfg": "",
+            "dev_type": "default",
+            "err": "",
+            "type": "default",
+            "dps": {
+                "dps": {
+                    "1": false,
+                    "9": 0,
+                    "17": 3,
+                    "18": 0,
+                    "19": 0,
+                    "20": 2358,
+                    "21": 1,
+                    "22": 625,
+                    "23": 30264,
+                    "24": 17344,
+                    "25": 1200,
+                    "26": 0
+                }
+            },
+            "origin": "broadcast",
+            "ver": "3.3"
+        },
+        {
+            "id": "bf2b01655dfe3fb32fupge",
+            "ip": "192.168.0.195",
+            "active": 2,
+            "encrypt": true,
+            "productKey": "keyqwtgrcsf3hxng",
+            "name": "KRK R",
+            "key": "(T+gxxMiOKAv3Lru",
+            "mac": "84:e3:42:5c:28:50",
+            "ability": 0,
+            "token": "",
+            "wf_cfg": "",
+            "dev_type": "default",
+            "err": "",
+            "type": "default",
+            "dps": {
+                "dps": {
+                    "1": false,
+                    "9": 0,
+                    "17": 4,
+                    "18": 0,
+                    "19": 0,
+                    "20": 2375,
+                    "21": 1,
+                    "22": 636,
+                    "23": 31312,
+                    "24": 18135,
+                    "25": 1148,
+                    "26": 0
+                }
+            },
+            "origin": "broadcast",
+            "ver": "3.3"
+        }
+    ]
+}

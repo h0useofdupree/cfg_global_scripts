@@ -1,0 +1,158 @@
+[
+    {
+        "name": "KRK R",
+        "id": "bf2b01655dfe3fb32fupge",
+        "key": "(T+gxxMiOKAv3Lru",
+        "mac": "84:e3:42:5c:28:50",
+        "uuid": "f8b8e9c2fc00cf68",
+        "category": "cz",
+        "product_name": "Smart Socket-16A",
+        "product_id": "fbvia0apnlnattcy",
+        "biz_type": 18,
+        "model": "SP22A",
+        "sub": false,
+        "icon": "https://images.tuyaeu.com/smart/icon/ay1514359068372Hd98B/c3a67a5857f715ff87995c5875cce60f.jpg",
+        "mapping": {
+            "1": {
+                "code": "switch_1",
+                "type": "Boolean",
+                "values": {}
+            },
+            "9": {
+                "code": "countdown_1",
+                "type": "Integer",
+                "values": {
+                    "unit": "s",
+                    "min": 0,
+                    "max": 86400,
+                    "scale": 0,
+                    "step": 1
+                }
+            },
+            "17": {
+                "code": "add_ele",
+                "type": "Integer",
+                "values": {
+                    "unit": "",
+                    "min": 0,
+                    "max": 50000,
+                    "scale": 3,
+                    "step": 100
+                }
+            },
+            "18": {
+                "code": "cur_current",
+                "type": "Integer",
+                "values": {
+                    "unit": "mA",
+                    "min": 0,
+                    "max": 30000,
+                    "scale": 0,
+                    "step": 1
+                }
+            },
+            "19": {
+                "code": "cur_power",
+                "type": "Integer",
+                "values": {
+                    "unit": "W",
+                    "min": 0,
+                    "max": 50000,
+                    "scale": 1,
+                    "step": 1
+                }
+            },
+            "20": {
+                "code": "cur_voltage",
+                "type": "Integer",
+                "values": {
+                    "unit": "V",
+                    "min": 0,
+                    "max": 5000,
+                    "scale": 1,
+                    "step": 1
+                }
+            }
+        },
+        "ip": "192.168.0.195",
+        "version": "3.3"
+    },
+    {
+        "name": "KRK L",
+        "id": "bf1b6602d2742bf93d8izy",
+        "key": "V)>ArRhvT$1:etdC",
+        "mac": "84:e3:42:5b:59:12",
+        "uuid": "507c97b3e937fc06",
+        "category": "cz",
+        "product_name": "Smart Socket-16A",
+        "product_id": "fbvia0apnlnattcy",
+        "biz_type": 18,
+        "model": "SP22A",
+        "sub": false,
+        "icon": "https://images.tuyaeu.com/smart/icon/ay1514359068372Hd98B/c3a67a5857f715ff87995c5875cce60f.jpg",
+        "mapping": {
+            "1": {
+                "code": "switch_1",
+                "type": "Boolean",
+                "values": {}
+            },
+            "9": {
+                "code": "countdown_1",
+                "type": "Integer",
+                "values": {
+                    "unit": "s",
+                    "min": 0,
+                    "max": 86400,
+                    "scale": 0,
+                    "step": 1
+                }
+            },
+            "17": {
+                "code": "add_ele",
+                "type": "Integer",
+                "values": {
+                    "unit": "",
+                    "min": 0,
+                    "max": 50000,
+                    "scale": 3,
+                    "step": 100
+                }
+            },
+            "18": {
+                "code": "cur_current",
+                "type": "Integer",
+                "values": {
+                    "unit": "mA",
+                    "min": 0,
+                    "max": 30000,
+                    "scale": 0,
+                    "step": 1
+                }
+            },
+            "19": {
+                "code": "cur_power",
+                "type": "Integer",
+                "values": {
+                    "unit": "W",
+                    "min": 0,
+                    "max": 50000,
+                    "scale": 1,
+                    "step": 1
+                }
+            },
+            "20": {
+                "code": "cur_voltage",
+                "type": "Integer",
+                "values": {
+                    "unit": "V",
+                    "min": 0,
+                    "max": 5000,
+                    "scale": 1,
+                    "step": 1
+                }
+            }
+        },
+        "ip": "192.168.0.35",
+        "version": "3.3"
+    }
+]
