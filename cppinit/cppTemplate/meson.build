@@ -1,4 +1,4 @@
-project('chernoCourse', 'cpp', default_options : ['cpp_std=c++17', 'buildtype=debug', 'optimization=3', 'b_ndebug=if-release'])
+project('chernoCourse', 'cpp', default_options : ['cpp_std=c++17', 'buildtype=', 'optimization=3', 'b_ndebug=if-release'])
 
 inc = include_directories('include')
 
