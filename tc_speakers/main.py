@@ -26,12 +26,14 @@ args = parser.parse_args()
 
 
 def print_status() -> None:
+    """Print the status of all devices"""
     for i, device in enumerate(d_speakers, start=1):
         status = device.status()
         print(f"Status KRK {chr(64+i)}: {status}")
 
 
 def set_state(state):
+    """Set the state of all devices (1 for on, 0 for off)."""
     try:
         for device in d_speakers:
             if state == 1:
